@@ -1,0 +1,10 @@
+out/
+*.o
+*.ko
+*.cmd
+*.tmp
+*.a
+*.so
+*.so.*
+Module.symvers
+modules.order
